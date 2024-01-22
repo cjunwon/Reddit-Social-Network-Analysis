@@ -13,7 +13,7 @@ The presentation explaining the full project structure and results during our Wi
 <hr>
 
 ## BACKGROUND
-A community on any social network platform or forum can be represented through a network. In the real world, a person's particular affiliation/engagement with certain subcommunity can be determined based on various features (demographic, use of language, activities, interests). A composition of such similar people can be identified as a subcommunity. In this project, we attempt to efficiently discover subcommunities (and their changes) using the pure graph structure of an entire forum platform (Reddit), avoiding the use of language other categorical feature detection models.
+A community on any social network platform or forum can be represented through a network. In the real world, a person's particular affiliation/engagement with certain subcommunity can be determined based on various features (demographic, use of language, activities, interests). A composition of such similar people can be identified as a subcommunity. In this project, we attempt to efficiently discover subcommunities (and their changes) using the pure graph structure of an entire forum platform (Reddit), avoiding the use of language other categorical feature detection models. This project also performs node classification on new posts/comments.
 
 <hr>
 
